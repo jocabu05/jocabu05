@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jocabu05/static/css/main.2f1000af.css",
+    "main.js": "/jocabu05/static/js/main.6cffb5ff.js",
+    "static/js/453.66c28a8b.chunk.js": "/jocabu05/static/js/453.66c28a8b.chunk.js",
+    "index.html": "/jocabu05/index.html",
+    "main.2f1000af.css.map": "/jocabu05/static/css/main.2f1000af.css.map",
+    "main.6cffb5ff.js.map": "/jocabu05/static/js/main.6cffb5ff.js.map",
+    "453.66c28a8b.chunk.js.map": "/jocabu05/static/js/453.66c28a8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f1000af.css",
+    "static/js/main.6cffb5ff.js"
+  ]
+}
